@@ -2,6 +2,9 @@
 
 An enterprise-scale network architecture focused on infrastructure hardening, dynamic routing convergence, and structural troubleshooting.
 
+## Network Topology
+![Network Topology](topology.png)
+
 ## Core Features
 - **Infrastructure Hardening:** Baseline configurations including line access security (Console, VTY, AUX) and Switch Management VLANs.
 - **Dynamic Routing:** Enterprise-wide Single-Area OSPFv2 deployment with dynamic default route injection.
